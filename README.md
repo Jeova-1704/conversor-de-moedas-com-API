@@ -1,5 +1,7 @@
 # conversor de moedas com API
 
+![Captura de tela_20230502_173332](https://user-images.githubusercontent.com/127805808/235780339-246d549c-77fb-411f-9afd-a2a8f59a01b8.png)
+
 <h4>Este é o meu primeiro projeto com API utilizando Python e Tkinter. Trata-se de um conversor de moedas, que faz uso da API AwesomeAPI para obter as cotações em tempo real das moedas USD, EUR e BTC em relação ao Real (BRL)
 A API AwesomeAPI é uma fonte de dados econômicos atualizados em tempo real, com informações sobre moedas, ações e índices financeiros de diversas partes do mundo..<h4>
 
