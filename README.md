@@ -11,7 +11,7 @@ A API AwesomeAPI é uma fonte de dados econômicos atualizados em tempo real, co
 ## Como executar
 <h4>Para executar o programa, basta rodar o arquivo "conversor.py". O programa foi escrito em Python 3 e utiliza as bibliotecas tkinter e requests.</h4>
 <h4>Para utilizar o projeto, é necessário ter as bibliotecas PIL, requests e tkinter instaladas. Para instalá-las, basta utilizar o gerenciador de pacotes pip. Para mais informações sobre como instalar as bibliotecas, consulte a documentação oficial do Python.</h4>
-`pip install tkinter`
+`pip install tk`
 `pip install pillow`
 `pip install requests`
 
