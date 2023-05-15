@@ -11,10 +11,17 @@ A API AwesomeAPI é uma fonte de dados econômicos atualizados em tempo real, co
 ## Como executar
 <h4>Para executar o programa, basta rodar o arquivo "conversor.py". O programa foi escrito em Python 3 e utiliza as bibliotecas tkinter e requests.</h4>
 <h4>Para utilizar o projeto, é necessário ter as bibliotecas PIL, requests e tkinter instaladas. Para instalá-las, basta utilizar o gerenciador de pacotes pip. Para mais informações sobre como instalar as bibliotecas, consulte a documentação oficial do Python.</h4>
-`pip install tk`
-`pip install pillow`
-`pip install requests`
 
+  <pre>
+pip install tk
+</pre>
+<pre>
+pip install pillow
+</pre>
+<pre>
+pip install requests
+</pre>
+  
 ## Configuração da interface
 <h4>A interface do programa é construída utilizando a biblioteca tkinter. A janela possui dimensões de 300x320 e fundo branco. As cores utilizadas no projeto são branco (#fcfcfc), preto (#030000) e amarelo (#fccf03). A janela principal é dividida em dois frames, um para exibição da imagem da logo (frame_logo) e outro para o conversor de moedas (frame_conversor).</h4>
 
